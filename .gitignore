@@ -1,0 +1,13 @@
+# React build
+React-CRUD/node_modules
+React-CRUD/build
+
+# React build
+ems-frontend/node_modules
+ems-frontend/build
+
+# Java
+emes-backend/target
+
+# General
+.DS_Store
