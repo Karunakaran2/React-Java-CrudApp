@@ -1,7 +1,7 @@
 import axios from "axios";
 import { data } from "react-router-dom";
 
-const REST_API_URL = "http://localhost:8082/api/departments";
+const REST_API_URL = "http://localhost:8083/api/departments";
 
 export const listDepartments = () => {
   return axios.get(REST_API_URL);
